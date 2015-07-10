@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="126px" height="126px" viewBox="0 0 126 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo" sketch:type="MSArtboardGroup">
+            <g id="Oval-1-+-heart" sketch:type="MSLayerGroup" transform="translate(2.000000, 2.000000)">
+                <circle id="Oval-1" stroke="#FFFFFF" stroke-width="5" sketch:type="MSShapeGroup" cx="61" cy="61" r="61"></circle>
+                <g id="heart" transform="translate(27.000000, 35.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <path d="M34,59.256 L32.826,58.3 C7.106,37.352 0.14,29.978 0.14,18 C0.14,8.152 8.152,0.14 18,0.14 C26.23,0.14 30.882,4.814 34,8.33 C37.118,4.814 41.77,0.14 50,0.14 C59.848,0.14 67.86,8.152 67.86,18 C67.86,29.978 60.894,37.352 35.174,58.3 L34,59.256 L34,59.256 Z M18,3.86 C10.204,3.86 3.86,10.204 3.86,18 C3.86,28.262 10.318,35.122 34,54.456 C57.682,35.122 64.14,28.262 64.14,18 C64.14,10.204 57.796,3.86 50,3.86 C42.86,3.86 39.134,8.11 36.142,11.526 L34,13.932 L31.858,11.526 C28.866,8.11 25.14,3.86 18,3.86 L18,3.86 Z" id="Fill-18"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
