@@ -14,15 +14,17 @@ As a take-home problem, you'll be building a marketing page for a fake product c
 * [ ] The layout is responsive.
 * [ ] The header behaves correctly.
 
-## What are we looking for?
-We're trying to get of sense of your HTML/CSS chops. We're also trying to get a sense of your eye for detail. Here are thing things we're looking for, specifically:
-* Organized and reusable blocks of HTML/CSS
-* Pixel-perfect implementation
-
 ## Tips
 * You can find the specs in `/specs` and all the images you'll need in `/images`.
 * All the fonts and colors you'll need are in the `<style>` section of `index.html`.
-* Feel free to use any tools you'd like, such Sass, Meteor, etc.
+* You're encouraged to use any tools you'd like, such Less, Sass, Grunt, etc.
+
+## What are we looking for?
+We're trying to get of sense of your HTML/CSS chops. We're also trying to get a sense of your eye for detail. Here are thing things we're looking for, specifically:
+* Simple, understandable CSS
+* Concise (fewer HTML elements is better)
+* Organized and reusable code
+* What tools you like to use
 
 ## How to Submit
 Please set up a GitHub page and send us a link via email. To find the setup instructions, you can do the following:
