@@ -25,18 +25,3 @@ We're trying to get of sense of your HTML/CSS chops. We're also trying to get a 
 * Concise (fewer HTML elements is better)
 * Organized and reusable code
 * What tools you like to use
-
-## How to Submit
-Please set up a GitHub page and send us a link via email. To find the setup instructions, you can do the following:
-
-1/ Go here https://pages.github.com/
-
-2/ Click on "Project site"
-
-![Project Site](http://cl.ly/image/1C2s2A1n0u1X/Screen%20Shot%202015-07-10%20at%2011.07.59%20AM.png)
-
-3/ Click on "Start from scratch"
-
-![Start from scratch](http://cl.ly/image/43183t2x232N/Screen%20Shot%202015-07-10%20at%2011.08.12%20AM.png)
-
-4/ Follow the rest of the instructions on the page.
